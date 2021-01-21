@@ -1,0 +1,227 @@
+[
+  {
+    "node":"Interface",
+    "path":"Interface",
+    "type":"mikrotik"
+  },
+  {
+    "node":"Setup VLAN",
+    "path":"Setup VLAN",
+    "type":"mikrotik"
+  },
+  {
+    "node":"Assign DNS",
+    "path":"Assign DNS",
+    "type":"mikrotik"
+  },
+  {
+    "node":"Assign gateway",
+    "path":"Assign gateway",
+    "type":"mikrotik"
+  },
+  {
+    "node":"System",
+    "path":"System",
+    "type":"mikrotik"
+  },
+  {
+    "node":"Bridge setup",
+    "path":"Bridge setup",
+    "type":"mikrotik"
+  },
+  {
+    "node":"Create a name for network card (interface)",
+    "path":"Create a name for network card (interface)",
+    "type":"mikrotik"
+  },
+  {
+    "node":"Assign ip address to network card (interface)",
+    "path":"Assign ip address to network card (interface)",
+    "type":"mikrotik"
+  },
+  {
+    "node":"Create NAT rule",
+    "path":"Create NAT rule",
+    "type":"mikrotik"
+  },
+  {
+    "node":"Create DHCP_client",
+    "path":"Create DHCP_client",
+    "type":"mikrotik"
+  },
+  {
+    "node":"Create DHCP_server",
+    "path":"Create DHCP_server",
+    "type":"mikrotik"
+  },
+  {
+    "node":"Create login page(Hotspot)",
+    "path":"Create login page(Hotspot)",
+    "type":"mikrotik"
+  },
+  {
+    "node":"ConfigrationModeRouter(config)",
+    "path":"ConfigrationModeRouter(config)",
+    "type":"Routing"
+  },
+  {
+    "node":"UserMoode",
+    "path":"UserMoode",
+    "type":"Routing"
+  },
+  {
+    "node":"Routing protocols",
+    "path":"Routing protocols",
+    "type":"Routing"
+  },
+  {
+    "node":"PRIVILEGE MODE",
+    "path":"PRIVILEGE MODE",
+    "type":"Routing"
+  },
+  {
+    "node":"ACL : Access Control List",
+    "path":"ACL : Access Control List",
+    "type":"Switching"
+  },
+  {
+    "node":"DHCP : Dynamic Host Configuration Protocol",
+    "path":"DHCP : Dynamic Host Configuration Protocol",
+    "type":"Switching"
+  },
+  {
+    "node":"DTP : (Dynamic trunk protocol )",
+    "path":"DTP : (Dynamic trunk protocol )",
+    "type":"Switching"
+  },
+  {
+    "node":"Etherchannel",
+    "path":"Etherchannel",
+    "type":"Switching"
+  },
+  {
+    "node":"NAT : Network Address Translation",
+    "path":"NAT : Network Address Translation",
+    "type":"Switching"
+  },
+  {
+    "node":"Port security",
+    "path":"Port security",
+    "type":"Switching"
+  },
+  {
+    "node":"STP : Spanning Tree Protocol",
+    "path":"STP : Spanning Tree Protocol",
+    "type":"Switching"
+  },
+  {
+    "node":"Sub interface",
+    "path":"Sub interface",
+    "type":"Switching"
+  },
+  {
+    "node":"VLAN : Virtual LAN",
+    "path":"VLAN : Virtual LAN",
+    "type":"Switching"
+  },
+  {
+    "node":"Vtp : (virtual trunk protocol )",
+    "path":"Vtp : (virtual trunk protocol )",
+    "type":"Switching"
+  },
+  {
+    "node":"GRE : Generic Routing Encapsulation",
+    "path":"GRE : Generic Routing Encapsulation",
+    "type":"Switching"
+  },
+  {
+    "node":"HSRP : Hot standby routing protocol",
+    "path":"HSRP : Hot standby routing protocol",
+    "type":"Switching"
+  },
+  {
+    "node":"telnet on router",
+    "path":"telnet on router",
+    "type":"Switching"
+  },
+  {
+    "node":"telnet on switch",
+    "path":"telnet on switch",
+    "type":"Switching"
+  },
+  {
+    "node":"AAA : Authentication, authorization, accounting",
+    "path":"AAA : Authentication, authorization, accounting",
+    "type":"Switching"
+  },
+  {
+    "node":"SSH : Secure Shell",
+    "path":"SSH : Secure Shell",
+    "type":"Switching"
+  },
+  {
+    "node":"NTP : Network time protocol",
+    "path":"NTP : Network time protocol",
+    "type":"Switching"
+  },
+  {
+    "node":"Cisco password Recovery",
+    "path":"Cisco password Recovery",
+    "type":"Switching"
+  },
+  {
+    "node":"TFTP server : Text file transfer protocol",
+    "path":"TFTP server : Text file transfer protocol",
+    "type":"Switching"
+  },
+  {
+    "node":"FTP : File Transfer Protocol",
+    "path":"FTP : File Transfer Protocol",
+    "type":"Switching"
+  },
+  {
+    "node":"BGP : Border Gateway Protocol",
+    "path":"BGP : Border Gateway Protocol",
+    "type":"Switching"
+  },
+  {
+    "node":"PPPOE : Point to Point Protocol Over Ethernet",
+    "path":"PPPOE : Point to Point Protocol Over Ethernet",
+    "type":"Switching"
+  },
+  {
+    "node":"Voice",
+    "path":"Voice",
+    "type":"Switching"
+  },
+  {
+    "node":"MLS : Multi-layer switch OR SVI : switch virtual interface",
+    "path":"MLS : Multi-layer switch OR SVI : switch virtual interface",
+    "type":"Switching"
+  },
+  {
+    "node":"IPv6 : Internet protocol version sex",
+    "path":"IPv6 : Internet protocol version sex",
+    "type":"Switching"
+  }
+
+]
+     
+          
+         
+    
+  
+
+
+
+
+
+
+
+
+
+
+      
+    
+  
+  
